@@ -26,8 +26,8 @@ function Homeworks() {
       <tbody>
         <tr>
           <th scope="row">1</th>
-          <td>Homework1</td>
-          <td>Git Practice. Provide link of your repo here </td>
+          <td>Homework 2.2</td>
+          <td>Build a Wynisco Bootcamp Class Website</td>
           <td><a href="https://github.com"> Link</a> </td>
        
       </tr>

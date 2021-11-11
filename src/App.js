@@ -10,8 +10,8 @@ function App() {
      <div>
       <Jumbotron fluid>
         <Container fluid>
-          <h1 className="display-3">WELCOME TO BOOTCAMP - JULY 18 EDITION</h1>
-          <p className="lead">My Name is Sachin Rajgire and I am instructor  </p>
+          <h1 className="display-3">WELCOME TO BOOTCAMP - NOVEMBER 10 EDITION</h1>
+          <p className="lead">My Name is Shreeya Vaitla and I am a student</p>
           <NavBar />
 
           <Table dark>
@@ -28,13 +28,13 @@ function App() {
           <th scope="row">1</th>
           <td>Master Sheet</td>
           <td>This is link to master sheet which has links to everything el</td>
-          <td><a href="https://docs.google.com/spreadsheets/d/1LP8zSW6I1teJ7RoLqdRtWoU7s3o2A3QxfQMmEW1wXCQ/edit?usp=sharing"> Mastersheet</a></td>
+          <td><a href="https://docs.google.com/spreadsheets/d/1YEpRG5kT6Q9wIs4XNILCvYCr4C0-OAx7jod-bQY1Nkw/edit#gid=0"> Mastersheet</a></td>
         </tr>
       <tr>
-          <th scope="row">3</th>
+          <th scope="row">2</th>
           <td>Github</td>
           <td>Github repository link where our instructors can review your code </td>
-          <td><a href="https://github.com/sachinrajgire"> Link</a></td>
+          <td><a href="https://github.com/s-vaitla1"> Link</a></td>
         </tr>
       
         
