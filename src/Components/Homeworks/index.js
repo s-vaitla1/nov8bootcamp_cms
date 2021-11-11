@@ -28,7 +28,7 @@ function Homeworks() {
           <th scope="row">1</th>
           <td>Homework 2.2</td>
           <td>Build a Wynisco Bootcamp Class Website</td>
-          <td><a href="https://github.com"> Link</a> </td>
+          <td><a href="https://github.com/s-vaitla1?tab=repositories"> Link</a> </td>
        
       </tr>
         <tr>
