@@ -11,9 +11,9 @@ function Contact() {
         <Container fluid>
           <h1 className="display-3">My Contact Details</h1>
           <p className="lead">Here are my contact details </p>
-          <p className="lead">Email : sachin@wynisco.com my email </p>
-          <p className="lead">Phone : 732 874 0188 </p>
-          <p className="lead">Typical Wake up / Sleep Hours : Other than bootcamp. I will available morning 7AM to 11AM EST via slack or whatsapp Changed  </p>
+          <p className="lead">Email : shreeya.ed@gmail.com </p>
+          <p className="lead">Phone : 402 805 0550 </p>
+          <p className="lead">Typical Wake up / Sleep Hours : Other than bootcamp. I will available morning 11AM EST/ 9AM MST to 5PM EST/ 3PM MST via whatsapp or mobile  </p>
         </Container>
       </Jumbotron>
     </div>

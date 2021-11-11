@@ -10,8 +10,8 @@ function Homeworks() {
      <div>
       <Jumbotron fluid>
         <Container fluid>
-          <h1 className="display-3">WELCOME TO BOOTCAMP - MAY 24 EDITION</h1>
-          <p className="lead">My Name is Sachin Rajgire and I am student here </p>
+          <h1 className="display-3">WELCOME TO BOOTCAMP - NOVEMBER 10 EDITION</h1>
+          <p className="lead">My Name is Shreeya Vaitla and I'm a student</p>
           <NavBar />
 
           <Table dark>
@@ -28,17 +28,33 @@ function Homeworks() {
           <th scope="row">1</th>
           <td>Homework 2.2</td>
           <td>Build a Wynisco Bootcamp Class Website</td>
-          <td><a href="https://github.com/s-vaitla1/wyniscoHTMLWebsite"> Link</a> </td>
-       
-      </tr>
+          <td><a href="https://s-vaitla1.github.io/wyniscoHTMLWebsite/index.html"> Link</a> </td>
+       </tr>
         <tr>
           <th scope="row">2</th>
-          <td>Homework 2</td>
-          <td>Javascript - Here is my codepen link with solutions</td>
-          <td><a href="https://codepen.io/wynisco/pen/ExWmXzd"> Link</a> </td>
-       
-      </tr>
-        
+          <td>Homework 3.1</td>
+          <td>CSS Selectors Exercise</td>
+          <td><a href="https://codepen.io/svaitla/pen/WNEgbLz"> Link</a> </td>
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td>Homework 3.2</td>
+          <td>Navigation Bar</td>
+          <td><a href="https://s-vaitla1.github.io/wyniscoHTMLWebsite/index.html"> Link</a> </td>
+        </tr> 
+        <tr>
+          <th scope="row">4</th>
+          <td>Homework 3.4</td>
+          <td>HW Quiz</td>
+          <td><a href="https://codepen.io/svaitla/pen/xxLaGdO"> Link</a> </td>
+        </tr> 
+      {/*  <tr>
+          <th scope="row">5</th>
+          <td>Homework 3.5</td>
+          <td>Build these layout using CSS grid and Flexbox</td>
+          <td><a href="https://codepen.io/svaitla/pen/xxLaGdO"> Link</a> </td>
+      </tr> */}
+
       </tbody>
     </Table>
         </Container>
